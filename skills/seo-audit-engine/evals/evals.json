@@ -1,0 +1,11 @@
+{
+  "skill_name": "seo-audit-engine",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Run a full SEO/AEO/GEO audit for imtransporter.com — a packers and movers company operating across 23 Indian cities (goods transport, distributor & stockist transport, household within-city moving). Reviews and local visibility matter a lot in this niche. Produce the client-facing PDF report and the internal execution checklist.",
+      "expected_output": "A client PDF (exec summary, module scorecard incl. AI Visibility score, evidence-based findings, keyword map top 25, 90-day roadmap, 3 pricing tiers) and an xlsx checklist (Tasks, full keyword map, Scores, AI visibility log, Data snapshot), all grounded in live collected data",
+      "files": []
+    }
+  ]
+}

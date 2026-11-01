@@ -1,0 +1,19 @@
+{
+  "skill_name": "meme-engine",
+  "evals": [
+    {
+      "id": 0,
+      "eval_name": "client-100-dollar-seo",
+      "prompt": "make me a meme about clients who want #1 ranking on google but their budget is $100",
+      "expected_output": "One finished meme image (jpg) using a fitting known template, correct panel order, text not clipped, plus a suggested post caption",
+      "files": []
+    },
+    {
+      "id": 1,
+      "eval_name": "vague-topic-ai",
+      "prompt": "meme this: AI",
+      "expected_output": "Skill should sharpen the vague topic into a specific funny angle on its own, produce one finished meme image with a specific punchline, not a generic 'AI is everywhere' meme",
+      "files": []
+    }
+  ]
+}
